@@ -74,8 +74,8 @@ Function Get-File-TeleDrooper{
   [Parameter(Mandatory=$true,Position=0)] [String[]]$BId
   [Parameter(Mandatory=$true,Position=1)] [String[]]$BToken
   [Parameter(Mandatory=$true,Position=2)] [String[]]$FSave
-  [Parameter(Mandatory=$true,Position=3)] [String[]]$FRun
-  [Parameter(Mandatory=$true,Position=3)] [String[]]$BEncode
+  [Parameter(Mandatory=$true,Position=4)] [String[]]$FRun
+  [Parameter(Mandatory=$true,Position=5)] [String[]]$BEncode
   
  
   )
